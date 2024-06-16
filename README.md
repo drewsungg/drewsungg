@@ -1,7 +1,4 @@
 r<!-- <img src="src/banner-github-profile.png"> -->
-
-<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=drewsungg&hide=stars&show_icons=true&card_width=250&theme=city_lights">
-
 <p>Hi, I'm Andrew! I study CS @ Stanford (AI + Systems), also taking courses in health, design, and entrepreneurship. Just trying to learn something new every day :) </p>
 
 <p align="center" style="margin-top:1rem;">
