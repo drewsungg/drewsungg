@@ -1,8 +1,8 @@
 <!-- <img src="src/banner-github-profile.png"> -->
 
-<p>Hi, I'm Andrew! I study CS @ Stanford (AI + Systems), also taking courses in health, design, and entrepreneurship. Just trying to learn something new every day :) </p>
+<img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=drewsungg&hide=stars&show_icons=true&card_width=250&theme=city_lights">
 
-<img align="left" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=drewsungg&hide=stars&show_icons=true&card_width=250&theme=city_lights">
+<p>Hi, I'm Andrew! I study CS @ Stanford (AI + Systems), also taking courses in health, design, and entrepreneurship. Just trying to learn something new every day :) </p>
 
 <p align="center" style="margin-top:1rem;">
     <a href="https://instagram.com/drewsungg" target="_blank" rel="noopener">
