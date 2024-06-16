@@ -4,7 +4,7 @@
 
 <p>Hi, I'm Andrew! I study CS @ Stanford (AI + Systems), also taking courses in health, design, and entrepreneurship. Just trying to learn something new every day :) </p>
 
-<p align="center" style="margin-top:1rem;">
+<p align="left" style="margin-top:1rem;">
     <a href="https://instagram.com/drewsungg" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
     </a>
