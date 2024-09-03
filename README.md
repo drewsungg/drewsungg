@@ -12,6 +12,3 @@
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF">
     </a>
 </p>
-
-![GitHub Snake Light](https://raw.githubusercontent.com/drewsungg/drewsungg/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/drewsungg/drewsungg/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
