@@ -1,6 +1,6 @@
 <!-- <img src="src/banner-github-profile.png"> -->
 
-<p>Hi, I'm Andrew! I study CS @ Stanford, also taking courses in health, design, and entrepreneurship. Embracing the process >:D </p>
+<p>Hi, I'm Andrew! I study CS @ Stanford, with interests in health, design, and business. Embracing the process :) </p>
 
 <p align="left" style="margin-top:1rem;">
     <a href="https://instagram.com/drewsungg" target="_blank" rel="noopener">
