@@ -1,6 +1,6 @@
 <!-- <img src="src/banner-github-profile.png"> -->
 
-<p>Hi, I'm Andrew! I study CS (AI) @ Stanford, with interests in health, game theory, design thinking, music, gardening, and boxing :D </p>
+<p>Hi, I'm Andrew! I study CS (AI) @ Stanford, with interests in health, game theory, music, gardening, and boxing. </p>
 
 <p align="left" style="margin-top:1rem;">
     <a href="https://instagram.com/drewsungg" target="_blank" rel="noopener">
